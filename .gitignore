@@ -1,3 +1,2 @@
-*.py
-py2srbcyr
 news/
+__pycache__
